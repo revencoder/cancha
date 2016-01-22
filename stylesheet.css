@@ -1,0 +1,78 @@
+body{
+	margin:30px;
+}
+
+
+
+.grass{
+	background-color: #8CB27C;
+	width: 900px;
+	height: 500px;
+	position: absolute;
+	
+}
+
+.rec1{
+	border: 1px solid white;
+	width: 850px;
+	height: 450px;
+	position: relative;
+	bottom: 60px;
+	left: 20px
+
+}
+
+.recs2{
+	border: 1px solid white;
+	width: 130px;
+	height: 200px;
+	position: relative;
+	bottom: 385px;
+	left: 20px
+}
+
+.recs3{
+	border: 1px solid white;
+	width: 130px;
+	height: 200px;
+	position: relative;
+	bottom: 588px;
+	right: -740px
+}
+
+.circulo{
+	width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    position: relative;
+    border: 1px solid white;
+    bottom: 790px;
+	left: 330px;
+}
+
+.pelota1{
+	position: relative;
+	bottom: -155px;
+	left: 140px;
+
+}
+
+
+.pelota2{
+	position: relative;
+	bottom: -295px;
+	left: 713px;
+
+}
+
+.pelota3{
+	position: relative;
+	bottom: -30px;
+	left: 450px;
+
+}
+
+
+
+
+
